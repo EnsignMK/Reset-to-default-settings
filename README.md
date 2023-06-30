@@ -35,6 +35,14 @@ to
 
 and
 
+
+
+place ui-config.json located in :
+> /extensions/reset_default_settings/scripts/ui-config.json
+
+to
+>/stable-diffusion-webui-master/stable-diffusion-webui-master/
+
 >restart the webui afterwards!!
 
 
