@@ -26,24 +26,9 @@ Which means ,it worked, you need to restart the Webui.
 ## additional info
 If for some reason you don't like the look
 of the default webui , you can always go back.
-place the config.json located in
-> /extensions/reset_default_settings/scripts/config.json
+place the config.json and ui-config.json located in
+> /extensions/Reset-to-default-settings/scripts
 
-to
-
->/stable-diffusion-webui-master/stable-diffusion-webui-master/
-
-and
-
-
-
-place ui-config.json located in :
-> /extensions/reset_default_settings/scripts/ui-config.json
-
-to
->/stable-diffusion-webui-master/stable-diffusion-webui-master/
-
->restart the webui afterwards!!
 
 
 
