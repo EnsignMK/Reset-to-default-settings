@@ -22,7 +22,7 @@ def when_clicked(ch):
         current_directory = os.getcwd()
         file_path = current_directory + "/config.json"  #to be moved
         file2_path= current_directory + "/ui-config.json"
-        destination_relative_path = '/extensions/reset_default_settings/scripts'
+        destination_relative_path = '/extensions/Reset-to-default-settings/scripts'
 
         destination_directory = current_directory + destination_relative_path
         # Move the file to the destination directory
