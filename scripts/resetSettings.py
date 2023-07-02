@@ -15,7 +15,7 @@ import  shutil
 from modules import script_callbacks
 def when_clicked(ch):
     if ch:
-        # we move the current config.json to this folder /extensions/reset_default_settings/scripts
+        # we move the current config.json to this folder /extensions/Reset-to-default-settings/scripts
         #incase the user decides he wants it back
 
         # Get the current working directory
